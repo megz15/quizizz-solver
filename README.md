@@ -7,7 +7,7 @@ This is a completely automatic quizizz.com quiz solver; it hunts the questions a
 ## REQUIREMENTS:
 NOTE: If you are running the exe uploaded in Releases you do not need any of these
 
-1. [Python 3](https://www.python.org/downloads/): I use 3.8.2
+1. [Python 3](https://www.python.org/downloads/): I use 3.8.6
 2. [Selenium](https://www.selenium.dev/): Browser automation for python. Install using ```pip install msedge-selenium-tools selenium``` in Command Prompt.
 3. [PySimpleGUI](https://pysimplegui.readthedocs.io/): Python library for GUI development. Install using ```pip install pysimplegui``` in Command Prompt.
 4. [Requests](https://requests.readthedocs.io/): Python HTTP library. Install using ```pip install requests``` in Command Prompt.
