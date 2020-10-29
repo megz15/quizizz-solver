@@ -2,6 +2,7 @@
 [GUI] Fully automatic bot that solves quizizz.com quizzes
 ## About project
 This is a completely automatic quizizz.com quiz solver; it hunts the questions and answers buried in a garbled json file, selects the right option and proceeds to the next question all by itself. I developed it to understand more about web scraping and browser automation. I'm not responsible for any kind of misuse of this program that may lead to expulsion from your organisation, melting CPUs or ransomware attacks. (jk, but seriously don't blame me)
+\
 ( ͡° ͜ʖ ͡°)
 ## REQUIREMENTS:
 NOTE: If you are running the exe uploaded in Releases you do not need any of these
